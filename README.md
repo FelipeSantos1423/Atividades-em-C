@@ -1,2 +1,2 @@
 # Atividades-em-C
-Atividades da Linguagem C, da Faculdade Fatec
+Atividades da Linguagem C
